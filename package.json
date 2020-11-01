@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.2.0"
+  },
+  "fitbit": {
+    "appUUID": "20364828-f1c3-47f2-b9e9-a4c21cb10021",
+    "appType": "clockface",
+    "appDisplayName": "Francynic",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity"
+    ],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Francynic"
+      }
+    },
+    "defaultLanguage": "it-IT"
+  }
+}

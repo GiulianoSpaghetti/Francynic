@@ -1,4 +1,4 @@
-# Francynic
+#Simonyc
 Il mio primo quadrante per il fitbit ionic.
 La particolarità di questo quadrante è che ha una immagine di background facilmente modificabile, mostra l'orologio, la data, la carica, i passi e la frequenza cardiaca.
 

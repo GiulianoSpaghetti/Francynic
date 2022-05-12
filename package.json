@@ -5,7 +5,7 @@
   "fitbit": {
     "appUUID": "20364828-f1c3-47f2-b9e9-a4c21cb10021",
     "appType": "clockface",
-    "appDisplayName": "Simonynic",
+    "appDisplayName": "Francynic",
     "iconFile": "resources/icon.png",
     "wipeColor": "",
     "requestedPermissions": [
